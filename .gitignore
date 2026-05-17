@@ -1,0 +1,28 @@
+# Binary files
+dispatch
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build files
+bin/
+dist/
+
+# Dependency directories
+vendor/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
